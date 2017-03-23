@@ -17,5 +17,8 @@ For Revision E:
 * 1x TMB-05
 * 1x 555 Timer
 * 2x CR1220 Coin Cell Batteries
+* 1x Pushbutton
+* 2x CR1220 Coin Cell Holders
+* 1x NPN Transistor
 
 ![Board Layout](https://github.com/atucom/Whistler/blob/master/Board_layout_RevE.png)
